@@ -1,0 +1,35 @@
+* {
+  margin:0px;
+     
+}
+h1{
+  text-align: center;
+
+}
+#game{
+  background: #ccc;
+  border: #999 1px solid;
+  width: 800px;
+  height:540px; 
+  padding: 24px;
+  margin: 0px auto;
+}
+#game > div{
+background: white;
+border: thin#000 1px solid;
+width: 150px;
+height: 150px;
+float: left;
+margin: 10px;
+padding: 20px;
+font-size: 64px;
+cursor:pointer;
+text-align: center;
+}
+.restart{
+
+margin-left: 500px;
+margin-top: 10px;
+
+
+}
